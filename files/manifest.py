@@ -1,6 +1,7 @@
 # feel free to play around
 def print_my_text(important):
-    # this is a comment 
+    # First comment
+    # as this fuction should just print text,
     # how about bring "print()" inside the function.
     # so calling fuction would be easier..
     #is ok
