@@ -1,10 +1,9 @@
 # feel free to play around
 def print_my_text(important):
-    #First comment #waheed  #
-    # as this fuction should just print text,
+    # this is a comment 
+    #hello
     # how about bring "print()" inside the function.
     # so calling fuction would be easier..
-    #is ok
     return important
 
 text = "Repeat these sentences every morning:\nWe are good.\nWe are wonderful."
@@ -17,3 +16,5 @@ print(variable_fausto)
 print('I see')
 
 print("Test")
+variable_Shaban="Shaban is not very good but also not very bad so what is he"
+print(variable_Shaban)
