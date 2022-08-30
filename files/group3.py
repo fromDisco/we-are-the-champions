@@ -1,14 +1,14 @@
 # This is group number 3
 from re import M
-import turtle
+import turtle # Nadia we wanna draw a square
 
-wn = turtle.Screen()
-max = turtle.Turtle()
+wn = turtle.Screen() # Nadia
+max = turtle.Turtle()  # Nadia
 
-wn.title('This is group number 3')
-wn.bgcolor('blue')
-for i in range(4):
-    max.forward(40)
-    max.left(90)
+wn.title('This is group number 3')  # Nadia
+wn.bgcolor('blue')   # Nadia
+for i in range(4): # Nadia
+    max.forward(40) #Nadia
+    max.left(90) # Nadia
 
-wn.mainloop()
+wn.mainloop() # Nadia
