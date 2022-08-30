@@ -1,8 +1,9 @@
 # feel free to play around
 def print_my_text(important):
-    # as this fuction should just print text,
+    # as this function should just print text,
+    # Hello
     # how about bring "print()" inside the function.
-    # so calling fuction would be easier.
+    # so calling function would be easier.
     return important
 
 text = "Repeat these sentences every morning:\nWe are good.\nWe are wonderful."
