@@ -12,3 +12,4 @@ text1 = "yes we are the best class of the year in DCI"
 print(print_my_text(text1))
 variable_fausto = "Hello, World....Class"
 print(variable_fausto)
+print('I see')
